@@ -2,5 +2,7 @@ mod puzzles;
 
 fn main() {
     println!("Day 01:");
-    let _ = puzzles::day01::solve();
+    puzzles::day01::solve();
+    println!("Day 02:");
+    puzzles::day02::solve();
 }
