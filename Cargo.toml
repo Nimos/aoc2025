@@ -1,0 +1,15 @@
+[package]
+name = "aoc-2025"
+version = "0.1.0"
+edition = "2021"
+
+
+authors = ["hannah <hello@hannah.cat>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "aoc-2025"
+path = "main.rs"
